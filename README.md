@@ -1,6 +1,6 @@
-# Solace Travels — static HTML rebuild
+# Solace Travels — wellness retreats site
 
-Situs HTML/CSS/JS statis yang meniru tata letak & perilaku referensi `vita-travel.webflow.io`, dengan brand, teks, foto, logo, dan kode buatan sendiri.
+Situs HTML/CSS/JS statis untuk **Solace Travels**, brand fiktif retreat wellness (yoga, fotografi, juice cleanse, solo travel) dengan 6 halaman retreat, halaman coach, dan form kontak. Brand, teks, foto, logo, dan kodenya dibuat sendiri.
 
 ## Cara membuka
 Buka `index.html` langsung di browser (klik dua kali). Tidak butuh server atau internet: font, GSAP, ikon, dan gambar semuanya ada di folder `assets/`.
