@@ -1,3 +1,5 @@
+![Preview](docs/preview/homepage.gif)
+
 # Solace Travels — wellness retreats site
 
 Situs HTML/CSS/JS statis untuk **Solace Travels**, brand fiktif retreat wellness (yoga, fotografi, juice cleanse, solo travel) dengan 6 halaman retreat, halaman coach, dan form kontak. Brand, teks, foto, logo, dan kodenya dibuat sendiri.
